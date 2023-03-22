@@ -4,7 +4,7 @@
 ''' 
 * Team Id : KB#1133
 * Author List : Arjun K Haridas, Ayan Goel, Bhavay Garg>
-* Filename: navigation_hardware_slot3.py
+* Filename: navStack.py
 * Theme: Krishi Bot
 * Functions: __init__, joint_move_clbk, arm_feedback, pepper_found_clbk, clbk_laser, change_state, move, take_action, find_wall, turn_right, turn_left, stop, 
              follow_the_wall, follow_left_wall, follow_right_wall, _state_
